@@ -1,0 +1,6 @@
+numpy
+mediapipe
+pyspark
+opencv-python
+jsonschema
+requests
